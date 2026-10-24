@@ -1,0 +1,243 @@
+{
+  "apps": {
+    "docs": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Docs v1.0.0",
+      "published_at": 1792841499,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Docs - Soạn thảo văn bản & tài liệu thông minh.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "docs-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/docs-1.0.0-windows-x64-portable.zip",
+          "size": 26889252,
+          "sha256": "9df645347d89ff4f7f1bdc6b2cc0e65bcfb4b032f59022dd1aafd8a2fb5c1dbf"
+        }
+      ]
+    },
+    "sheets": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Sheets v1.0.0",
+      "published_at": 1792841502,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Sheets - Bảng tính & phân tích dữ liệu tốc độ cao.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "sheets-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/sheets-1.0.0-windows-x64-portable.zip",
+          "size": 13619075,
+          "sha256": "d3113bfde51d21d2a976869408a7fad165f54e2da6ac7567772a865462e0fb31"
+        }
+      ]
+    },
+    "slides": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Slides v1.0.0",
+      "published_at": 1792841507,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Slides - Thiết kế bài thuyết trình chuyên nghiệp.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "slides-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/slides-1.0.0-windows-x64-portable.zip",
+          "size": 20576263,
+          "sha256": "f46761d912d05f67ac5a0446c102b17fcf8453c7c948811d5713a6caabf79392"
+        }
+      ]
+    },
+    "pdf": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA PDF v1.0.0",
+      "published_at": 1792841514,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA PDF - Đọc, chỉnh sửa, nối tách và ký số PDF.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "pdf-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/pdf-1.0.0-windows-x64-portable.zip",
+          "size": 30209773,
+          "sha256": "8607ce1ed1f9d57ececedb58c9c5b57e28ce2138a4c6ed96a8bdfd6beaebdd7a"
+        }
+      ]
+    },
+    "photo": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Photo v1.0.0",
+      "published_at": 1792841521,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Photo - Chỉnh sửa ảnh đa lớp chuyên sâu.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "photo-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/photo-1.0.0-windows-x64-portable.zip",
+          "size": 35092975,
+          "sha256": "246edadccd3b915fc244e2b63b5f00d844c8057d4810acfa2cee4a135f1868eb"
+        }
+      ]
+    },
+    "raw": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Raw v1.0.0",
+      "published_at": 1792841527,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Raw - Xử lý ảnh RAW phi phá hủy & color grading.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "raw-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/raw-1.0.0-windows-x64-portable.zip",
+          "size": 27402775,
+          "sha256": "60ae811efc3e990bc9f7517be8b5793696d12ac55fdd5ff779b9332ab22e1408"
+        }
+      ]
+    },
+    "draw": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Draw v1.0.0",
+      "published_at": 1792841536,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Draw - Đồ họa vector & minh họa kỹ thuật số.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "draw-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/draw-1.0.0-windows-x64-portable.zip",
+          "size": 39883520,
+          "sha256": "3ef1f1282b2c6b9ac9245b74f7a82bf98a3c47871e61fbbb153339d0aadd197a"
+        }
+      ]
+    },
+    "ui": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA UI v1.0.0",
+      "published_at": 1792841541,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA UI - Thiết kế giao diện UI/UX & Prototype.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "ui-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/ui-1.0.0-windows-x64-portable.zip",
+          "size": 23537507,
+          "sha256": "0aa815449d9db0dc395e11c6be50c277bd92d60f6768075230ee6184c7b3ee28"
+        }
+      ]
+    },
+    "design": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Design v1.0.0",
+      "published_at": 1792841549,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Design - Dàn trang sách báo, tạp chí & in ấn.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "design-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/design-1.0.0-windows-x64-portable.zip",
+          "size": 31617171,
+          "sha256": "1e9ac10700323c8738b3a6bcd8b37fb4a82cb343490cf4d54f692c2ee886e341"
+        }
+      ]
+    },
+    "pre": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Pre v1.0.0",
+      "published_at": 1792841554,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Pre - Dựng phim NLE chuyên nghiệp, Lumetri Color & Batch Render Queue.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "pre-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/pre-1.0.0-windows-x64-portable.zip",
+          "size": 25684048,
+          "sha256": "ede023233bf2cab7dae6b2eab30562116a4f7f8bc9ccfcc2363274b9c4f72805"
+        }
+      ]
+    },
+    "vfx": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA VFX v1.0.0",
+      "published_at": 1792841561,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA VFX - Kỹ xảo điện ảnh, Motion Graphics & Keyframe.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "vfx-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/vfx-1.0.0-windows-x64-portable.zip",
+          "size": 38681640,
+          "sha256": "14781726ff8a81eabd183cd3d524f64de155b8cd4881d212afdaab9c223e7bf6"
+        }
+      ]
+    },
+    "sound": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA Sound v1.0.0",
+      "published_at": 1792841564,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA Sound - Thu âm, xử lý phổ âm và biên tập âm thanh đa kênh.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "sound-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/sound-1.0.0-windows-x64-portable.zip",
+          "size": 12386123,
+          "sha256": "dee34adbe2ee9f20b57dafae81089f78f404802aacaf32ce8145509b48639567"
+        }
+      ]
+    },
+    "cad": {
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "name": "DTA CAD v1.0.0",
+      "published_at": 1792841568,
+      "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+      "notes": "Bản phát hành chính thức DTA CAD - Thiết kế bản vẽ kỹ thuật 2D & mô hình 3D tham số.",
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "cad-1.0.0-windows-x64-portable.zip",
+          "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/cad-1.0.0-windows-x64-portable.zip",
+          "size": 19459823,
+          "sha256": "69bda93954e9699ecbca0de863abfb39790c15e055c6df8a4a00855f96c4842b"
+        }
+      ]
+    }
+  },
+  "launcher": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "DTA Launcher v1.0.0",
+    "published_at": 1792841571,
+    "html_url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/tag/v1.0.0",
+    "notes": "Trung tâm quản lý, cài đặt theo yêu cầu (On-Demand) và cập nhật tự động DTA Studio Suite.",
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "launcher-1.0.0-windows-x64-portable.zip",
+        "url": "https://github.com/TruongAnh2706/DTA-Studio-Releases/releases/download/v1.0.0/launcher-1.0.0-windows-x64-portable.zip",
+        "size": 13787692,
+        "sha256": "f973525d0207d82f3b395b49c706b3d9d8764613dc7509f81dcf44c9af719fb0"
+      }
+    ]
+  },
+  "notices": []
+}
